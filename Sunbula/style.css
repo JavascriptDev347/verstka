@@ -66,18 +66,18 @@ img:hover{
 /* NEWS PAGE */
 
 .section__item .news {
-      width: auto;
-      min-height: 10px;
+      margin-left: 100px;
+      margin-right: 100px;
+      gap: 40px;            
 }
 
 .section__item .news .new {
-      /* border: 2px solid black; */
-      margin-top: 50px;
-      padding: 40px;
-      width: 750px;
-      height: 320px;
-      margin: auto;
+      padding: 50px;
+      
+      /* margin: auto; */
+      /* border: 1px solid black; */
 }
+
 .section__item .news .new .btn {
       border-radius: 25%;
       background-color: pink;
